@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Me llamo Stiven Delgado</h1>
 <h3 align="center">Soy un desarrollador web</h3>
 
-- Puedes preguntarme sobre **Html, CSS, Javascrip**
+- Puedes preguntarme sobre **Html, CSS, Javascript**
 
 <h3 align="left">Contactame Con:</h3>
 <p align="left">
